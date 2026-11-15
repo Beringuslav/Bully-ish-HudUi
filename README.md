@@ -95,8 +95,7 @@ All original assets, trademarks, and intellectual property belong to their respe
 
 # Bully-ish HudUI – LeedsHUD Edition
 
-**Zmodyfikowana i ulepszona wersja LeedsHUD i manhuntHUD dla Grand Theft Auto<img width="1920" height="1080" alt="Zrzut ekranu 2026-11-15 023841" src="https://github.com/user-attachments/assets/0e01a420-6224-4840-882a-f266e64ed792" />
- San Andreas.**
+**Zmodyfikowana i ulepszona wersja LeedsHUD i manhuntHUD dla Grand Theft Auto San Andreas.**
 
 Bully-ish HudUI to projekt rozwojowy oparty na [**LeedsHUD**](https://github.com/nastyyaboi/LeedsHUD) i [**manhuntHUD**](https://github.com/nastyyaboi/manhuntHUD), stworzonych przez **nastyyaboi**.
 

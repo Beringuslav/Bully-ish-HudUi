@@ -187,7 +187,7 @@ Wszystkie oryginalne zasoby, znaki towarowe i prawa własności intelektualnej n
 ### Not everything shown is part of the modification. / Nie wszystko, co pokazano, jest częścią modyfikacji.
 
 ## Video/Nagranie:
-
+https://imgur.com/O6ALpTS
 
 ## Sample Photos/Zdjęcia poglądowe:
 <img width="1920" height="1080" alt="Zrzut ekranu 2026-11-15 023841" src="https://github.com/user-attachments/assets/f173a9fd-dcee-403b-8fed-eb88c646e391" />
